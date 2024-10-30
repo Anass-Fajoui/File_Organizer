@@ -8,7 +8,7 @@ A Python-based file organizer with a simple graphical interface created using Tk
 - **Recursive Organization**: Option to include and organize subdirectories within the selected folder.
 
 ## Requirements
-- **Python>=3.6
+- Python>=3.6
 
 ## Usage Instructions :
 1. **Clone the Repository**:
