@@ -12,7 +12,9 @@ A Python-based file organizer with a simple graphical interface created using Tk
 
 ## Usage Instructions :
 1. **Clone the Repository**:
-   git clone https://github.com/yourusername/file_organizer_project.git
+   git clone https://github.com/Anass-Fajoui/File_Organizer.git
+2. **Enter the source folder**
    cd file_organizer_project
    cd src
-   python main.py
+3. **Run the main file**
+python main.py
